@@ -1,7 +1,7 @@
 ## Ethan Conner
 
 I am a current senior at Tarleton State University working towards my Bachelor's of Science in Cybersecurity with a minor in mathematics.
-Visit the repository [MyResume](https://github.com/EJ-Connnr/MyResume) to view my resume.
+Visit the repository [MyResume](https://github.com/EJ-Conner/MyResume) to view my resume.
 
 
 
