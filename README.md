@@ -9,6 +9,7 @@ Here are the programming languages I have experience in:
 - Python
 - C
 - Bash
+- LaTex
 
 <!--
 **EJ-Conner/EJ-Conner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
